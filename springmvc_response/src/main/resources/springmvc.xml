@@ -19,6 +19,11 @@
         <property name="suffix" value=".jsp"></property>
     </bean>
 
+<!--    前端控制器，哪些前端资源不拦截-->
+    <mvc:resources mapping="/js/**" location="/js/"></mvc:resources>
+    <mvc:resources mapping="/css/**" location="/css/"></mvc:resources>
+    <mvc:resources mapping="/images/**" location="/images/"></mvc:resources>
+
 <!--    开启SpringMVC框架注解支持-->
     <mvc:annotation-driven></mvc:annotation-driven>
 </beans>
