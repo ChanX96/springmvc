@@ -6,8 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="firstapp" />
         <module name="springmvc_response" />
+        <module name="fileuploadserver" />
+        <module name="springmvc_fileupload" />
+        <module name="firstapp" />
       </profile>
     </annotationProcessing>
   </component>

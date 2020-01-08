@@ -11,6 +11,8 @@
     <modules>
         <module>firstapp</module>
         <module>springmvc_response</module>
+        <module>springmvc_fileupload</module>
+        <module>fileuploadserver</module>
     </modules>
 
     <properties>
