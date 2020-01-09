@@ -13,6 +13,8 @@
         <module>springmvc_response</module>
         <module>springmvc_fileupload</module>
         <module>fileuploadserver</module>
+        <module>springmvc_interceptor</module>
+        <module>springmvc_exception</module>
     </modules>
 
     <properties>

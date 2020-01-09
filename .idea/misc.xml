@@ -4,7 +4,9 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/fileuploadserver" />
     <file type="web" url="file://$PROJECT_DIR$/firstapp" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc_exception" />
     <file type="web" url="file://$PROJECT_DIR$/springmvc_fileupload" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc_interceptor" />
     <file type="web" url="file://$PROJECT_DIR$/springmvc_response" />
   </component>
   <component name="JavaScriptSettings">
