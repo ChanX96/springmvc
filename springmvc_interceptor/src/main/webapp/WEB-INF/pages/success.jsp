@@ -1,8 +1,8 @@
 <%--
   Created by IntelliJ IDEA.
-  User: chanx
+  User: ChanX
   Date: 2020/1/9
-  Time: 9:44 下午
+  Time: 13:54
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
@@ -12,9 +12,8 @@
 </head>
 <body>
 
-    <h3>拦截器</h3>
+    <h3>执行成功</h3>
 
-    <a href="user/testInterceptor">testInterceptor</a>
-
+    <% System.out.println("success.jsp执行了..."); %>
 </body>
 </html>

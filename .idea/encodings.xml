@@ -3,6 +3,8 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/firstapp/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/firstapp/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvc_exception/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvc_exception/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springmvc_fileupload/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springmvc_fileupload/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springmvc_interceptor/src/main/java" charset="UTF-8" />
