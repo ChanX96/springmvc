@@ -12,6 +12,7 @@
         <module name="springmvc_exception" />
         <module name="springmvc_response" />
         <module name="springmvc_interceptor" />
+        <module name="ssm" />
       </profile>
     </annotationProcessing>
   </component>
