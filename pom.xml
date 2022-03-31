@@ -19,7 +19,7 @@
     </modules>
 
     <properties>
-        <spring.versions>5.2.1.RELEASE</spring.versions>
+        <spring.versions>5.3.18</spring.versions>
     </properties>
 
     <dependencyManagement>
